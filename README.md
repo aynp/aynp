@@ -1,10 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Aryan Pathania. A 3rd year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
+
+<!-- <a href="https://app.daily.dev/aynp"><img src="./devcard.png" width="300" alt="Chris Bongers's Dev Card"/></a> -->
+
+<!-- <div align="left"> -->
+  <a href="https://app.daily.dev/aynp" target="_blank" style="margin:20px">
+    <img
+      width="256"
+      align="right"
+      src="./devcard.png"
+    />
+  </a>
+<!-- </div> -->
+
+## I'm Aryan Pathania
+
+A 3rd year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
 
 ## Profile Links
 
--   **Portfolio - [aryanpathania.vercel.app](https://aryanpathania.vercel.app)**
+-   **Portfolio - [aynp.vercel.app](https://aryanpathania.vercel.app)**
 -   **GitHub - [aynp](https://github.com/aynp)**
 -   **LinkedIn - [aryanpathania03](https://www.linkedin.com/in/aryanpathania03)**
 -   **Twitter - [aryanpathania03](https://twitter.com/aryanpathania03)**
