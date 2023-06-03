@@ -15,7 +15,7 @@
 
 ## I'm Aryan Pathania
 
-A 3rd year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
+A Backend Developer at Mercari and a 3rd year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
 
 ## Profile Links
 
