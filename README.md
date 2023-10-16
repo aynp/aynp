@@ -21,7 +21,7 @@ A Backend Developer at Mercari and a 3rd year Computer Science and Engineering s
 
 -   **Portfolio - [aynp.vercel.app](https://aryanpathania.vercel.app)**
 -   **GitHub - [aynp](https://github.com/aynp)**
--   **LinkedIn - [aryanpathania03](https://www.linkedin.com/in/aryanpathania03)**
+-   **LinkedIn - [aynp](https://www.linkedin.com/in/aynp)**
 -   **Twitter - [aryanpathania03](https://twitter.com/aryanpathania03)**
 -   **Codeforces - [nand](https://codeforces.com/profile/nand)**
 
