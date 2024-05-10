@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 
 
 <!-- <a href="https://app.daily.dev/aynp"><img src="./devcard.png" width="300" alt="Chris Bongers's Dev Card"/></a> -->
@@ -15,27 +15,18 @@
 
 ## I'm Aryan Pathania
 
-Final year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
+Senior year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
+
+## Internships
+- **True Beacon**
+- **Directi (titan.email)**
+- **Mercari**
 
 ## Profile Links
 
--   **Portfolio - [aynp.vercel.app](https://aryanpathania.vercel.app)**
+-   **Portfolio - [aynp.dev](https://aynp.dev)**
 -   **GitHub - [aynp](https://github.com/aynp)**
 -   **LinkedIn - [aynp](https://www.linkedin.com/in/aynp)**
 -   **Twitter - [aryanpathania03](https://twitter.com/aryanpathania03)**
 -   **Codeforces - [nand](https://codeforces.com/profile/nand)**
 
-<!--
-**aynp/aynp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
