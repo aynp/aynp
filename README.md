@@ -15,12 +15,12 @@
 
 ## I'm Aryan Pathania
 
-Senior year Computer Science and Engineering student at National Institute of Technology, Hamirpur.
+Backend Developer at Mercari, Tokyo 🗼
 
-## Internships
+## Previously at -
+- **Flipkart**
 - **True Beacon**
 - **Directi (titan.email)**
-- **Mercari**
 
 ## Profile Links
 
