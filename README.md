@@ -17,7 +17,7 @@
 
 Backend Developer at Mercari, Tokyo 🗼
 
-## Previously at -
+## Previously at
 - **Flipkart**
 - **True Beacon**
 - **Directi (titan.email)**
